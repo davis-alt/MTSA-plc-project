@@ -1,0 +1,14 @@
+# UniLogic temporary and backup directories
+Backup/
+*_Backup/
+Cache/
+Temp/
+
+# Compiled or build output files
+*.tmp
+*.log
+*.bak
+
+# Operating System specific thumbnail/metadata junk
+.DS_Store
+Thumbs.db
